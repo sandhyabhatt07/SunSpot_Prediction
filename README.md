@@ -14,6 +14,20 @@ This project is a **Streamlit-based web application** that forecasts future suns
 
 👉 [Click here to try the Sunspot Prediction App](https://sandhyabhatt07-sunspot-prediction-sunspotter-chcunu.streamlit.app/)
 
+📈 Data Source
+The dataset train.csv contains monthly sunspot observations with a column Avg_sunspot_count.
+
+🛠️ Technologies Used
+Python 🐍
+
+Streamlit 📺
+
+ARIMA from statsmodels 🔢
+
+Plotly 📊
+
+Pandas & NumPy 📐
+
 ## 📦 Installation
 
 Clone the repository and install dependencies:
