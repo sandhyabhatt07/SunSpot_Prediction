@@ -15,6 +15,12 @@ A Streamlit web app to visualize historical sunspot data and forecast future sun
 
 ---
 
+## 🌐 Demo
+
+Check out the live app here:  
+🔗 [Sunspot Prediction Streamlit App](https://sandhyabhatt07-sunspot-prediction-sunspotter-chcunu.streamlit.app/)
+
+
 ## 🧠 Model
 
 - **ARIMA (AutoRegressive Integrated Moving Average)**
